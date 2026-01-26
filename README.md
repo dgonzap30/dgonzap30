@@ -38,8 +38,7 @@
 | [**NFL Predictor**](https://github.com/dgonzap30/nfl-predictor) | NFL forecasting with calibrated probabilities | Python, XGBoost, PyTorch | 🟢 Open Source |
 | [**UFC Predictor**](https://github.com/dgonzap30/ufc-predictor) | UFC fight prediction (+2.2% ROI Sniper Strategy) | Python, XGBoost, ELO | 🟢 Open Source |
 | [**Clarity**](https://clarity-app-pi.vercel.app) | Personal spending dashboard with transaction analysis | React, Vite, Recharts, Tailwind | 🟢 Live |
-| [**Pazz ML**](https://pazz-ml.vercel.app) | Sports analytics ML experiments (NFL & UFC prediction) | Python, scikit-learn, TypeScript | 🟢 Live |
-| [**Lumina**](https://github.com/dgonzap30/dream-me) | AI-powered bedtime story generator with illustrations | Expo, Supabase, OpenAI, DALL-E, ElevenLabs | 🚧 In Development |
+| [**Pazz ML**](https://pazz-ml.vercel.app) | Leasing marketplace ML analytics | Python, scikit-learn, TypeScript | 🟢 Live |
 | [**Nudge**](https://github.com/dgonzap30/nudge-case-study) | Cross-platform follow-up tracker with freemium model | Expo, Supabase, RevenueCat | 🚧 Private Beta |
 | [**Mövee**](https://github.com/dgonzap30/movee-case-study) | Nightlife coordination platform with real-time features | React Native (New Arch), PostGIS, Realtime | 🚧 TestFlight |
 | [**Reading List**](https://reading-list-orpin.vercel.app) | 20-week reading curriculum tracker with gamification | React, JavaScript | 🟢 Live |
