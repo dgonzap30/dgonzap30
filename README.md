@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgonzap30&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgonzap30&layout=compact&theme=default&hide_border=true&cache_seconds=1800&v=2)
 
 ---
 
