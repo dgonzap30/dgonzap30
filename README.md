@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-**Product Engineer** building full-stack mobile & web apps with **Expo** + **Supabase**.
+**Product Engineer** building full-stack apps & ML systems.
 
 ---
 
