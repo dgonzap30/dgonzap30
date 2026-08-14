@@ -1,67 +1,37 @@
-# Hi, I'm Diego 👋
+# Diego Gonzalez Zapiain
 
-**Product Engineer** building full-stack apps & ML systems.
+Technical lead at [PAZZ Marketplace](https://pazz.mx) and co-founder of [LOJIK Labs](https://wearelojik.com).
 
----
+I build production mobile, web, data, and AI systems end to end—from the product decision and domain model through integrations, observability, release, and recovery.
 
-## 🚀 Currently Building
+## Current focus
 
-* **[LOJIK Labs](https://wearelojik.com)** — Product studio for high-utility SaaS
-* **Nudge** — Cross-platform follow-up tracker (97 commits • 41 migrations)
-* **Mövee** — Nightlife coordination platform (552 commits • 44 migrations)
+### PAZZ Marketplace
 
----
+A neutral, AI-native automotive leasing marketplace for Mexico. I lead product and engineering across a nine-app, four-service platform spanning vehicle discovery, quoting, prequalification, conversational intake, partner routing, document workflows, contracting, and internal operations.
 
-## 🛠 Tech Stack
+### LOJIK Labs
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+An accountable systems-delivery firm. We find the recurring workflow slowing a business down, define the complete system around it, implement it professionally, prove acceptance, and remain accountable after launch.
 
----
+## How I work
 
-## 📚 Featured Projects
+- Turn ambiguous operating problems into explicit workflows, permissions, failure behavior, and acceptance criteria.
+- Ship in small, verifiable increments with strong database, security, observability, and release gates.
+- Treat AI as part of the system—not a substitute for product judgment, ownership, or operational truth.
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [**QuokkaQ**](https://quokka-demo.netlify.app) | AI-powered Q&A platform for course discussions | Next.js 15, Vercel AI SDK, TanStack Query | 🔵 Demo |
-| [**NFL Predictor**](https://github.com/dgonzap30/nfl-predictor) | NFL forecasting with calibrated probabilities | Python, XGBoost, PyTorch | 🚧 In Development |
-| [**UFC Predictor**](https://github.com/dgonzap30/ufc-predictor) | UFC fight prediction experiments with ML | Python, XGBoost, ELO | 🧪 Experimental |
-| [**Clarity**](https://clarity-app-pi.vercel.app) | Personal spending dashboard with transaction analysis | React, Vite, Recharts, Tailwind | 📁 Personal Project |
-| [**Pazz ML**](https://pazz-ml.vercel.app) | Leasing marketplace ML analytics | Python, scikit-learn, TypeScript | 🟢 Live |
-| [**Nudge**](https://github.com/dgonzap30/nudge-case-study) | Cross-platform follow-up tracker with freemium model | Expo, Supabase, RevenueCat | 🚧 Private Beta |
-| [**Mövee**](https://github.com/dgonzap30/movee-case-study) | Nightlife coordination platform with real-time features | React Native (New Arch), PostGIS, Realtime | 🚧 TestFlight |
-| [**Reading List**](https://reading-list-orpin.vercel.app) | 20-week reading curriculum tracker with gamification | React, JavaScript | 📁 Personal Project |
+## Tools
 
----
+TypeScript · React Native / Expo · Next.js · Postgres / Supabase · Vercel · Sentry · PostHog · Redis · Python · Swift · applied AI
 
-## 📊 GitHub Activity
+## Selected public work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgonzap30&layout=compact&theme=default&hide_border=true&cache_seconds=1800&v=2)
+Most of my active production work is private. These repos are selected case studies, packages, and experiments:
 
----
+- [BrainKit](https://github.com/dgonzap30/brainkit) — a Swift package for personal-app integration.
+- [NFL Predictor](https://github.com/dgonzap30/nfl-predictor) — a production-style forecasting engine with calibrated probabilities.
+- [Pazz ML](https://github.com/dgonzap30/pazz-ml) — marketplace analytics and prediction experiments.
+- [Mövee case study](https://github.com/dgonzap30/movee-case-study) — architecture and product decisions behind a real-time Expo, PostGIS, and Supabase mobile product.
+- [Reading List](https://github.com/dgonzap30/reading-list) — a 20-week curriculum tracker with lightweight gamification.
 
-## 🎓 Education & Experience
-
-- **UW-Madison** — Computer Science '26
-- **LOJIK Labs** — Founding Product Engineer
-
----
-
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://dgonzap30.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonzalez-797221258/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diego.gonzap@wearelojik.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=dgonzap30&color=blue&style=flat)
+[LinkedIn](https://www.linkedin.com/in/diego-gonzap/) · [Portfolio](https://dgonzap30.github.io)
