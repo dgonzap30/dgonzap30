@@ -4,9 +4,9 @@
 
 I build native apps, creative tools, and business systems with a fleet of AI coding agents, and I prove they keep working when the happy path ends.
 
-Co-Founder & Technical Lead at [LOJIK Labs](https://wearelojik.com/) · maker of [Intertitle](https://apps.apple.com/app/id6775606124) · Technical Lead at [PAZZ Marketplace](https://pazz.mx/) · Mexico City
+Co-Founder & Technical Lead at [LOJIK](https://wearelojik.com/) · maker of [Intertitle](https://apps.apple.com/app/id6775606124) · Technical Lead at [PAZZ Marketplace](https://pazz.mx/) · Mexico City
 
-**[Explore the demos and engineering stories](https://dgonzap30.github.io/projects/)** · [LinkedIn](https://www.linkedin.com/in/diego-gonzap/)
+**[Explore the demos and engineering stories](https://dgonzap30.github.io/projects/)** · [How I run a fleet of AI agents](https://dgonzap30.github.io/workflow/) · [LinkedIn](https://www.linkedin.com/in/diego-gonzap/)
 
 ## Selected engineering
 
@@ -34,4 +34,4 @@ Open-source agent tooling: [claims-mcp](https://github.com/dgonzap30/claims-mcp)
 
 B.S. Computer Science, University of Wisconsin–Madison, 2026. English & Spanish.
 
-[Let’s talk about a product or engineering problem.](https://www.linkedin.com/in/diego-gonzap/)
+Let’s talk about a product or engineering problem: [email](mailto:diego.gonzap@wearelojik.com) or [LinkedIn](https://www.linkedin.com/in/diego-gonzap/).
